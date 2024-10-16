@@ -1,0 +1,35 @@
+{
+    "ground_1": {
+        "regime": "ground",
+        "latitude": 34.235,
+        "longitude": 123.123,
+        "fov_vertical": 2.0,
+        "fov_horizontal": 2.0,
+        "earth_half_angle": 15.0,
+        "sun_half_angle": 5.0,
+        "moon_half_angle": 5.0,
+        "min_elevation": 15.0,
+        "integration_time": 3.0,
+        "slew_accel": 1.5,
+        "max_slew_rate": 2.0,
+        "max_range": 40000.0
+    },
+    "orbital_1": {
+        "regime": "orbital",
+        "a": 30000.0,
+        "e": 0.0,
+        "i": 60.0,
+        "RAAN": 8,
+        "w": 9,
+        "f": 10,
+        "fov_vertical": 2.0,
+        "fov_horizontal": 2.0,
+        "earth_half_angle": 15.0,
+        "sun_half_angle": 5.0,
+        "moon_half_angle": 5.0,
+        "integration_time": 3.0,
+        "slew_accel": 1.5,
+        "max_slew_rate": 2.0,
+        "max_range": 40000.0
+    }
+}
