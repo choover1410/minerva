@@ -5,7 +5,7 @@ Utilities to Propagate Orbits and Uncertainties
 import math
 import numpy as np
 from utils import *
-from config import re, minimum_elevation, mu_earth, simtime, iterations, h, c, M, loc, loc_hat
+from cfg.config import re, minimum_elevation, mu_earth, simtime, iterations, h, c, M, loc, loc_hat
 
 def accel(r) -> list:
     """
